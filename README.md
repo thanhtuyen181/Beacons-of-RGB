@@ -11,21 +11,6 @@ The project simulates a network of mystical beacons that emit, combine, and tran
 - **Language:** C++20  
 - **Focus:** Algorithmic efficiency, STL usage, graph traversal, clean design
 
-## Table of contents
-
-- [Project goals](#project-goals)  
-- [Core concepts](#core-concepts-implemented)  
-- [Features](#features)  
-  - [Beacon management](#beacon-management)  
-  - [Light beam system](#light-beam-system)  
-  - [Optical fiber network](#optical-fiber-network)  
-  - [Routing algorithms](#routing-algorithms)  
-- [Performance considerations](#performance-considerations)  
-- [Testing & visualization](#testing--visualization)  
-- [Project structure](#project-structure)  
-- [How to run](#how-to-run)  
-- [Author](#author)
-
 ## Project goals
 
 - Practice effective use of C++ STL containers and algorithms
@@ -131,3 +116,4 @@ This project focuses on algorithmic thinking, clean data modeling, scalability, 
 
 **Truong Thanh Tuyen**  
 Computing and Electrical Engineering Student — Tampere University
+
