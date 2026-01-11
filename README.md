@@ -108,6 +108,16 @@ Compile and run using either:
 
 Behavior and functionality are identical in both modes.
 
+## GUI preview on QT Creator
+
+<img width="938" height="708" alt="A screenshot of the user interface after adding beacons, lightbeams, and fibres" src="https://github.com/user-attachments/assets/2a2a7db4-0942-44d5-b551-7f4b44879771" />
+
+_A screenshot of the user interface after adding beacons, lightbeams, and fibres._
+
+<img width="734" height="926" alt="A screenshot of the list of commands available" src="https://github.com/user-attachments/assets/1495a5ee-0b18-4574-94cb-342c1295b52e" />
+
+_A screenshot of the list of commands available._
+
 ## Final notes
 
 This project focuses on algorithmic thinking, clean data modeling, scalability, and practical use of STL. It is a solid example of practical C++ applied to non-trivial algorithmic problems.
@@ -116,4 +126,5 @@ This project focuses on algorithmic thinking, clean data modeling, scalability, 
 
 **Truong Thanh Tuyen**  
 Computing and Electrical Engineering Student — Tampere University
+
 
