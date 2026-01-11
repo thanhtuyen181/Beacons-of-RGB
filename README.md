@@ -5,7 +5,7 @@
 ## Overview
 
 **Beacons of RGB** is a C++ project developed for a **Data Structures and Algorithms** course at Tampere University.  
-The project simulates a network of mystical beacons that emit, combine, and transmit RGB light through directed light beams and underground optical fibers.
+The project simulates a network of beacons that emit, combine, and transmit RGB light through directed light beams and underground optical fibers.
 
 - **Grade:** ⭐ 48 / 50  
 - **Language:** C++20  
@@ -17,6 +17,22 @@ The project simulates a network of mystical beacons that emit, combine, and tran
 - Implement efficient searching, sorting, and graph algorithms
 - Analyze and optimize time complexity of frequently called operations
 - Maintain a clean separation between provided framework code and student implementation
+
+## Real-World Relevance & Impact
+
+This project goes beyond a purely academic exercise by modeling problems that appear frequently in real-world systems. At its core, it simulates a network of nodes (beacons) and computes efficient routes between them, which directly reflects how modern infrastructure operates.
+
+Similar concepts are used in:
+
+- **GPS navigation systems**, where shortest or most efficient paths must be calculated dynamically
+
+- **Computer networks**, where data packets are routed through multiple nodes
+
+- **Logistics and delivery systems**, which optimize routes to reduce time and cost
+
+- **Smart cities and IoT networks**, where sensors and devices communicate through distributed nodes
+
+By visualizing the routing process instead of only printing numerical results, the project makes abstract algorithms tangible and easier to understand. This mirrors real engineering practice, where systems must be both correct and observable for debugging and optimization.
 
 ## Core concepts implemented
 
@@ -126,6 +142,7 @@ This project focuses on algorithmic thinking, clean data modeling, scalability, 
 
 **Truong Thanh Tuyen**  
 Computing and Electrical Engineering Student — Tampere University
+
 
 
 
